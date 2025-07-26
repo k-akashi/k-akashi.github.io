@@ -1,0 +1,9 @@
+---
+layout: none
+permalink: .well-known/security.txt
+---
+
+Contact: mailto:k-akashi@nc.u-tokyo.ac.jp
+Expires: 2028-03-30T15:00:00.000Z
+Preferred-Languages: en, ja
+Canonical: https://akashi.jpcert.cc/.well-known/security.txt
