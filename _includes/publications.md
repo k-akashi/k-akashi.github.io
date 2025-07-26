@@ -31,6 +31,8 @@
   - Thilmee Baduge, Lim Boon Ping, <strong><u>Kunio Akashi</u></strong>, Jason Soong, Ken-ichi Chinen, Ettikan K., and Eiichi Muramoto. Functional and Performance Verification of Overlay Multicast Applications - A Product Level Approach. In 2010 7th IEEE Consumer Communications and Networking Conference, pages 1-5, 2010. 
 
 ## Domestic Conference
+  - <strong><u>明石邦夫</u></strong>, 加納浩輝, 奥澤智子. コンテナ基盤における柔軟な負荷分散に向けた可用帯域・通信遅延の計測手法の提案. 信学技報, vol. 124, no. 419, NS2024-198, pp. 19-24, 2025年3月.
+  - 石井悠人, <strong><u>明石邦夫</u></strong>, 関谷勇司. 拡散モデルを用いた多クラスIDSデータセット生成手法の検討. 信学技報, vol. 124, no. 419, NS2024-273, pp. 450-455, 2025年3月.
   - 棚瀬 健, <strong><u>明石 邦夫</u></strong>, 関谷 勇司, 中村 宏. SDNにおけるトラフィック特徴量を用いたランサムウェア検知. 信学技報, 123(397): 385–390. Feb 2024.
   - <strong><u>明石 邦夫</u></strong>, 渡邊 大記, 島 慶一, 長谷川 知也, 村田 達郎, 金谷 知明, 平井 亮次, 西野 泰貴, 山本 成一, 飯村 卓司, 関谷 勇司, 堀場 勝広. ステートレスな5Gコアネットワークの実現に向けたデータ構造の設計. 信学技報, 122(407): 121–126. mar 2023.
   - 村田 達郎, 金谷 知明, 渡邊 大記, 島 慶一, 長谷川 知也, 平井 亮次, 西野 泰貴, <strong><u>明石 邦夫</u></strong>, 関谷 勇司, 堀場 勝広. per-UE型のMonolithic 5GC - per-UE SMNFの実装と評価. 信学技報, 122(406): 151–156. mar 2023.
