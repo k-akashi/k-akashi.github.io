@@ -1,0 +1,4 @@
+main:
+  - title: "Publications"
+    url: "/publications/"
+    icon: "fas fa-fw fa-book"

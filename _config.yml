@@ -1,7 +1,57 @@
-remote_theme: pages-themes/dinky@v0.2.0
-plugins:
-- jekyll-remote-theme
+#remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: "jekyll/minima@1e8a445"
+title: Kunio AKASHI
+email:
+description: "sample page"
+mininal_mistakes_skin: default
+show_downloads: false
 
-site:
-  github:
-    url: "https://github.com/k-akashi"
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+permalink: /:categories/:title/
+pagenate: 5
+paginate_path: /page:num/
+timezone: Asia/Tokyo
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+main:
+  - title: "Publications"
+    url: "/publications/"
+    icon: "fas fa-fw fa-book"
+
+author:
+  name   : "Kunio AKASHI"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : ""
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/k-akashi"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/k-akashi"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      readtime: false
+      classes: wide
