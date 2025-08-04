@@ -54,4 +54,4 @@ defaults:
     values:
       layout: "single"
       readtime: false
-      classes: wide
+      classes: full-wide

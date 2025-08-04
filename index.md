@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: wide
+classes: full-wide
 author_profile: true
 title: ""
 ---
