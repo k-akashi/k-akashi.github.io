@@ -1,4 +1,5 @@
 ## Journal
+  - 手塚,尚哉, <strong><u>明石,邦夫</u></strong>, 宮本,大輔, 落合,秀也. Fuga：ランサムウェアからリアクティブにデータを保護するシステムの設計と実装. 情報処理学会論文誌, volume 66, pages 1271-1280, Sep 2025., volume 66, pages 1271-1280, Sep 2025. doi: 10.20729/0002004344
   - Okada Satoshi, Jmila Houda, <strong><u>Akashi Kunio</u></strong>, Mitsunaga Takuho, Sekiya Yuji, Takase Hideki, Blanc Gregory, and Nakamura Hiroshi. Xai-driven black-box adversarial attacks on network intrusion detectors. International Journal of Information Security. vol 24, pages 103-, 2025
   - Satoshi Okada, <strong><u>Kunio Akashi</u></strong>, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, and Hiroshi Nakamura. Memory-saving LDoS Attacker Detection Algorithms in Zigbee Network. Journal of Information Processing, 31: 537-549. 2023.
   - Rintaro Harada, Naotaka Shibata, Shin Kaneko, Kazuaki Honda, Jun Terada, Yota Ishida, <strong><u>Kunio Akashi</u></strong>, and Toshiyuki Miyachi. Quick Suppression of DDoS Attacks by Frame Priority Control in IoT Backhaul With Construction of Mirai-Based Attacks. in IEEE Access, vol. 10, pp. 22392-22399, 2022, doi: 10.1109/ACCESS.2022.3153067.
