@@ -1,0 +1,17 @@
+.full-wide {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 90%;
+}
+
+@media (min-width: 80em) {
+  .page {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-size: 90%;
+  }
+}
