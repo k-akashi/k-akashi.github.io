@@ -1,17 +1,28 @@
-.full-wide {
-  max-width: 100% !important;
-  width: 100% !important;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  font-size: 90%;
+// Give single-page content more room while preserving the author sidebar.
+// The fluid gutter keeps the layout comfortable from phones to wide screens.
+#main {
+  padding-inline: clamp(1rem, 3vw, 3rem);
+}
+
+.page__content {
+  overflow-wrap: anywhere;
+}
+
+.page__content img,
+.page__content video,
+.page__content iframe {
+  max-width: 100%;
+}
+
+@media (min-width: 64em) {
+  .layout--single .page,
+  .layout--single .page__related {
+    padding-inline-end: 0;
+  }
 }
 
 @media (min-width: 80em) {
-  .page {
-    max-width: 100% !important;
-    width: 100% !important;
-    padding-left: 2rem;
-    padding-right: 2rem;
-    font-size: 90%;
+  #main {
+    max-width: 100rem;
   }
 }
