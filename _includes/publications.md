@@ -1,5 +1,6 @@
 ## Journal
-  - 手塚,尚哉, <strong><u>明石,邦夫</u></strong>, 宮本,大輔, 落合,秀也. Fuga：ランサムウェアからリアクティブにデータを保護するシステムの設計と実装. 情報処理学会論文誌, volume 66, pages 1271-1280, Sep 2025., volume 66, pages 1271-1280, Sep 2025. doi: 10.20729/0002004344
+  - 石井 悠人, <strong><u>明石 邦夫</u></strong>, 関谷 勇司. GPUと分散処理による高速かつ堅牢なネットワークフロー特徴量抽出フレームワーク. 情報処理学会 デジタルプラクティス,  volume 7, No.3, Jul 2026.
+  - 手塚 尚哉, <strong><u>明石 邦夫</u></strong>, 宮本 大輔, 落合 秀也. Fuga：ランサムウェアからリアクティブにデータを保護するシステムの設計と実装. 情報処理学会論文誌, volume 66, pages 1271-1280, Sep 2025., volume 66, pages 1271-1280, Sep 2025. doi: 10.20729/0002004344
   - Okada Satoshi, Jmila Houda, <strong><u>Akashi Kunio</u></strong>, Mitsunaga Takuho, Sekiya Yuji, Takase Hideki, Blanc Gregory, and Nakamura Hiroshi. Xai-driven black-box adversarial attacks on network intrusion detectors. International Journal of Information Security. vol 24, pages 103-, 2025
   - Satoshi Okada, <strong><u>Kunio Akashi</u></strong>, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, and Hiroshi Nakamura. Memory-saving LDoS Attacker Detection Algorithms in Zigbee Network. Journal of Information Processing, 31: 537-549. 2023.
   - Rintaro Harada, Naotaka Shibata, Shin Kaneko, Kazuaki Honda, Jun Terada, Yota Ishida, <strong><u>Kunio Akashi</u></strong>, and Toshiyuki Miyachi. Quick Suppression of DDoS Attacks by Frame Priority Control in IoT Backhaul With Construction of Mirai-Based Attacks. in IEEE Access, vol. 10, pp. 22392-22399, 2022, doi: 10.1109/ACCESS.2022.3153067.
@@ -7,9 +8,12 @@
   - Kazuaki Honda, Naotaka Shibata, Rintaro Harada, Yoyota Ishida, <strong><u>Kunio Akashi</u></strong>, Shin Kaneko, Toshiyuki Miyachi, and Jun Terada. Cooperated Traffic Shaping With Traffic Estimation and Path Reallocation to Mitigate Microbursts in IoT Backhaul Network. IEEE Access, 9: 162190–162196. 2021.
   - 廣井 慧, 井上 朋哉, <strong><u>明石 邦夫</u></strong>, 廣中 颯, 菅野 洋信, 湯村 翼, 宮地 利幸, and 篠田 陽一. ARIA：シミュレーション・エミュレーション連携基盤を利用したインタラクティブな都市型水害の被害予測システム. In 情報処理学会論文誌コンシューマ・デバイス＆システム（CDS）, volume 10, pages 11–25, may 2020.
   - TAKANO Yuuki, MIURA Ryosuke, YASUDA Shingo, <strong><u>AKASHI Kunio</u></strong>, and INOUE Tomoya. Design and Implementation of a Scalable and Flexible Traffic Analysis Platform. コンピュータ ソフトウェア, 36(3): 3_85-3_103. 2019.
+
+<!--
   - 村本 衛一, 香林 誠, 石井 秀教, <strong><u>明石 邦夫</u></strong>, 知念 賢一, 篠田 陽一. 無線網に対応した実時間映像音声伝送制御の検証のための時間推移ネットワークエミュレーションとその用法. 理論・実践に立脚したインターネットアーキテクチャ論文特集, J98-B(10): 1060-1069. 10 2015.
   - <strong><u>明石 邦夫</u></strong>, 井上 朋哉, ラズバン べウラン, 篠田 陽一. Meteor: 大規模ネットワーク実験環境における無線ネットワークエミュレータの設計と実装. 電子情報通信学会論文誌 B, 98(4): 357–372. Apr 2015.
   - Yasuda Shingo, <strong><u>Akashi Kunio</u></strong>, Enomoto Masatoshi, Miwa Shinsuke, and Yoichi Shinoda. Technical Requirements of Experiment Support Software for Huge-Scale Network Environment. International Journal of Computers and Communications, 7: 99–106. 2013.
+-->
 
 ## International Conference
   - Nakamura, S., <strong><u>Akashi, K.</u></strong>, Sekiya, Y. (2026). Proposal and Evaluation of a Method for Container Micro-segmentation. In: D'Arco, P., Zamfiroiu, A. (eds) Innovative Security Solutions for Information Technology and Communications. SecITC 2025. Lecture Notes in Computer Science, vol 16443. Springer, Cham. https://doi.org/10.1007/978-3-032-17443-7_15
@@ -20,6 +24,8 @@
   - Hiroki Watanabe, <strong><u>Kunio Akashi</u></strong>, Keiichi Shima, and Yuji Sekiya. "A Design of Stateless 5G Core Network With Procedural Processing". In IEEE International Black Sea Conference on Communications and Networking, Jul 2023.
   - Toshiyuki Miyachi, <strong><u>Kunio Akashi</u></strong>, Tomoya Inoue, Yota Ishida, Ryosuke Miura, Shinsuke Miwa, Fumihide Kojima, and Hiroaki Harai. "Extensions for Wireless Technology Emulation to Wire-based Network Testbed.", In 2021 24th International Symposium on Wireless Personal Multimedia Communications (WPMC), pages 1-6, 2021.
   - Ryo Nakamura, Yohei Kuga, and <strong><u>Kunio Akashi</u></strong>. "How Beneficial is Peer-to-Peer DMA?". In Proceedings of the 11th ACM SIGOPS Asia-Pacific Workshop on Systems, of APSys '20, pages 25–32, New York, NY, USA, 2020. Association for Computing Machinery
+
+<!--
   - Kei Hiroi, Tomoya Inoue, <strong><u>Kunio Akashi</u></strong>, Tsubasa Yumura, Toshiyuki Miyachi, Hayate Hironaka, Hironobu Kanno, and Yoichi Shinoda. "ARIA: Interactive Damage Prediction System for Urban Flood Using Simulation and Emulation Federation Platform", In Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers, of UbiComp/ISWC '19 Adjunct, pages 284–287, New York, NY, USA, 2019. Association for Computing Machinery
   - Tsubasa Yumura, <strong><u>Kunio Akashi</u></strong>, and Tomoya Inoue. "BluMoon: Bluetooth Low Energy Emulation System with Software-Implemented Controller", In 2018 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops), pages 860-865, 2018.
   - Tsubasa Yumura, Masatoshi Enomoto, <strong><u>Kunio Akashi</u></strong>, Futoshi Hirose, Tomoya Inoue, Satoshi Uda, Toshiyuki Miyachi, Yasuo Tan, and Yoichi Shinoda. "AOBAKO: A Testbed for Context-Aware Applications with Physicalizing Virtual Beacons", In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers, of UbiComp '18, pages 476–479, New York, NY, USA, 2018. Association for Computing Machinery
@@ -32,6 +38,7 @@
   - Toshiyuki Miyachi, Razvan Beuran, Yoshiki Makino, <strong><u>Kunio Akashi</u></strong>, Shingo Yasuda, Tomoya Inoue, Shinsuke Miwa, Satoshi Uda, Yasuo Tan, and Yoichi Shinoda. On network system evaluation under various failures. In pages 226–227, 2012. VALUETOOLS
   - Yasuda Shingo, <strong><u> Akashi Kunio</u></strong>, Inoue Tomoya, Miyachi Toshiyuki, Miwa Shinsuke, Chinen Ken-ichi, and Shinoda Yoichi. Requirements of Large Data Distribution Mechanism for Large-Scale Network Testbed. In 2nd European Conference of Comupter Science(ECCS11), pages 315–322, Puerto De La Cruz Tenerife, Spain, 2011. WSEAS
   - Thilmee Baduge, Lim Boon Ping, <strong><u>Kunio Akashi</u></strong>, Jason Soong, Ken-ichi Chinen, Ettikan K., and Eiichi Muramoto. Functional and Performance Verification of Overlay Multicast Applications - A Product Level Approach. In 2010 7th IEEE Consumer Communications and Networking Conference, pages 1-5, 2010. 
+-->
 
 ## Domestic Conference
   - <strong><u>明石邦夫</u></strong>, 加納浩輝, 奥澤智子. コンテナ基盤における柔軟な負荷分散に向けた可用帯域・通信遅延の計測手法の提案. 信学技報, vol. 124, no. 419, NS2024-198, pp. 19-24, 2025年3月.
@@ -43,6 +50,8 @@
   - 渡邊 大記, 島 慶一, 長谷川 知也, 村田 達郎, 金谷 知明, 平井 亮次, 西野 泰貴, <strong><u>明石 邦夫</u></strong>, 山本 成一, 飯村 卓司, 関谷 勇司, 堀場 勝広. NF型5GCソフトウェアを用いたステートレスなプロシージャ型5GCの実装. 信学技報, 122(406): 430–435. mar 2023.
   - 渡邊 大記, 髙田 敦生, <strong><u>明石 邦夫</u></strong>, 島 慶一, 関谷 勇司, 堀場 勝広. リアクティブでステートレスな5Gコアネットワークの設計と実装. 信学技報, 123(198): 89–94. oct 2023.
   - 渡邊 大記, 島 慶一, 長谷川 知也, 村田 達郎, 金谷 知明, 平井 亮次, 西野 泰貴, <strong><u>明石 邦夫</u></strong>, 山本 成一, 飯村 卓司, 関谷 勇司, 堀場 勝広. プロシージャ型処理を用いたステートレスな5Gコアネットワークの実現. 信学技報, 122(310): 54–59. dec 2022.
+
+<!--
   - 廣井 慧, 井上 朋哉, <strong><u>明石 邦夫</u></strong>, 湯村 翼, 宮地 利幸, 篠田 陽一. ARIA: シミュレーション・エミュレーション連携による都市型水害の漸進的被害推定システム. In 日本災害情報学会第21回学会大会, Oct 2019.
   - 廣井 慧, 井上 朋哉, <strong><u>明石 邦夫</u></strong>, 湯村 翼, 廣中 颯, 菅野 洋信, 宮地 利幸, 篠田 陽一. ARIA: シミュレーション・エミュレーション連携基盤を利用したインタラクティブな都市型水害の被害予測システム. In マルチメディア，分散，協調とモバイル(DICOMO2019)シンポジウム, Jul 2019.
   - <strong><u>明石 邦夫</u></strong>, 橋本 光世, 井上 朋哉, 宮地 利幸. 超大規模無線実験のための無線ネットワークエミュレータの設計. In IN, volume 118, pages 59–64, Sep 2018.
@@ -50,7 +59,9 @@
   - 三島 航, <strong><u>明石 邦夫</u></strong>, 宇多 仁, 篠田 陽一. セグメントルーティングにおけるセグメント階層化. In マルチメディア，分散協調とモバイルシンポジウム2018論文集, volume 2018, pages 1397–1402, jun 2018.
   - 湯村 翼, <strong><u>明石 邦夫</u></strong>, 井上 朋哉. IoTテストベッドのためのBluetoothエミュレーション基盤の設計. In 情報処理学会第55回ユビキタスコンピューティングシステム研究会, Aug 2017.
   - <strong><u>明石 邦夫</u></strong>, 井上 朋哉, 安田 真悟, 村本 衛一, 知念 賢一, 宇多 仁, 篠田 陽一. リンクエミュレータの多重実行の限界値測定. In pages 33–39, Oct 2009.
+-->
 
+<!--
 ## Others
   - ネットワークエミュレーションツール「dummynet」Volume 64 2010
-
+-->
