@@ -15,8 +15,8 @@ title: ""
 
 # WORKS
 * * *
-- Apr. 2025 - : Research Associate, the University of Tokyo, Information Technology Center
-- Apr. 2021 - Mar. 2024: Research Associate, the University of Tokyo, Graduate School of Information Science and Technology
+- Apr. 2025 - : Associate Professor, the University of Tokyo, Information Technology Center
+- Apr. 2021 - Mar. 2024: Associate Professor, the University of Tokyo, Graduate School of Information Science and Technology
 - Oct. 2017 - Mar. 2021: Researcher, National Institute of Information and Communications Technology, Social Innovation Unit ICT TestBED Research and Development Promotion Center ICT TestBED Research Development and Operations Labratory
 
 # OTHER
